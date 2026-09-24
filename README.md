@@ -83,9 +83,5 @@ Created the market capitalization and market dominance visualizations.
 crypto-market-analytics-btc-prediction/
 │
 ├── README.md
-├── crypto_market_analytics_btc_prediction.ipynb
-└── images/
-    ├── dashboard.png
-    ├── market_dominance.png
-    └── prediction_result.png
-    
+├── TUGAS DMO.pdf
+└── Copy_of_Salinan_dari_realdo_ipnyb-2.ipynb
